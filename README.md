@@ -1,9 +1,17 @@
-# repeat-tutorial
-人类本质鉴定器
+# 人类本质鉴定器
 
 人类的本质是什么？
 
 
-## rule
+## 规则
 
-随意挑选一位好基友然后fork（复读）他的repo！
+fork me，然后让下个人fork you
+
+# 人类本质鉴定器
+
+人类的本质是什么？
+
+
+## 规则
+
+fork me，然后让下个人fork you
